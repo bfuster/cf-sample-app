@@ -1,0 +1,10 @@
+{
+	"name":"sample-app-bfuster",
+	"version": "0.0.1",
+	"dependencies": {
+		"express":"",
+		"cloudfoundry":"",
+		"jade":""
+	}
+}
+
